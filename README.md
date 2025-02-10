@@ -1,8 +1,15 @@
-**CSM-281-OOP-with-Java** repository. It includes an overview of the course, the structure of your logbook, and how to contribute. 
-KNUST 2ND YEAR BSc. COMPUTER SCIENCE (2025)
+---
+
+# 🧑‍💻 CSM-281-OOP-with-Java 
+
+
+It includes an overview of the course, the structure of your logbook, and how to contribute. 
+**KNUST 2ND YEAR BSc. COMPUTER SCIENCE (2025)**
 
 🚀  
-https://www.google.com/url?sa=i&url=https%3A%2F%2Fharsh05.medium.com%2Fobject-oriented-programming-oop-concepts-in-java-classes-inheritance-polymorphism-86ee2d161958&psig=AOvVaw3b1vAE44bYgtb4ZoIDU8Uz&ust=1739313457636000&source=images&cd=vfe&opi=89978449&ved=0CBYQjRxqFwoTCMDRudqVuosDFQAAAAAdAAAAABAE
+
+![image](/oop.webp) 
+
 
 ---
 
