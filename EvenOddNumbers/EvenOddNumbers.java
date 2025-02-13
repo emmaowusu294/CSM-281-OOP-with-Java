@@ -1,23 +1,29 @@
 public class EvenOddNumbers {
     public static void main(String[] args) {
 
-        System.out.println("Even numbers between 0 and 20");
-        for ( int i = 1; i < 20; i++) {
-            if (i % 2 == 0) {
-                System.out.println(i + " ");
-            }
-           
+        // Printing even numbers between 0 and 20
+        for (int i = 0; i <= 20; i++)
+       {
+            if (i == 0) continue;
+         {
+           System.out.print(i + 1 + ",");
+           i++; 
         }
+        if (i == 18) break;
+       }
 
 
-        System.out.println("Odd numbers between 0 and 20");
-        for ( int i = 1; i < 20; i++) {
-            if (i % 2 != 0) {
-                System.out.println(i + " ");
-            }
-           
+
+        // Printing odd numbers between 0 and 10
+       for (int i = 0; i <= 20; i++)
+       {
+        if (i == 10) break;     // The loop stops if the i is 10
+         {
+           System.out.println(i + 1); // Printing the odd numbers
+           i++; // Increasing to keep them odd
         }
-
+       
+       }
 
     }
 }
