@@ -5,7 +5,12 @@ public class Array {
 
         for (int i= 0; i < a.length; i++)
         {
-            System.out.println( a[i]);
+            a[i] = i;
+        }
+
+        for (int i= 0; i < a.length; i++)
+        {
+            System.out.println(a[i]);
         }
     }
 }
