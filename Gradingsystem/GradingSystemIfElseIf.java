@@ -14,7 +14,7 @@ public class GradingSystemIfElseIf {
                 break; // Exit the loop if sentinel value is entered
                 }
 
-            System.out.print("Enter assessment score: ");-900  
+            System.out.print("Enter assessment score: ");
             assessmentScore = input.nextInt();
 
             System.out.print("Enter fee payment status (100 for paid, 0 for not paid): ");
