@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class GradingSystem {
+public class GradingSystemSwitch {
 
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
@@ -53,7 +53,7 @@ public class GradingSystem {
                                     grade = 'D';
                                     break;
                                 default:
-                                    grade = 'F'; // For scores below 40 (shouldn't happen if passed)
+                                    grade = 'F'; // For scores below 40 (shouldn't happen if passed except condoned)
                             }
                             System.out.println("Grade: " + grade);
                             break;
