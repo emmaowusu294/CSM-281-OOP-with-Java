@@ -1,0 +1,30 @@
+Miss Ama, a lecturer at KNUST, after the semester recorded the marks of her students wrongly. She marked both the mid semester exams out 
+of 100 instead of 30 and 70 respectively. She came to you as a programmer to develop for her a computer program that can scale the marks of 
+students down to 30 and 70. and then find the total score. The program is supposed to take student id, name, marks for both exams and output 
+the grade of each student.
+
+Also it should output. 
+- Highest score and name and id of the student that got it 
+- Lowest score and name and id of the student that got it 
+- Average Score of students
+- Frequency of grades
+
+
+Solution
+
+
+INPUTS- Number of Students, Student name, Student ID, MidSemScore, ExamScore
+OUTPUTS- Name--ID--MidSemScore--ExamScore--TotalScore--Grade 
+
+also Maximum Score, Minimum Score and Frequency of grades
+
+Ill use arrays and obviously. 
+
+Variables / Arrays....
+
+numStudents, name[], studentID[], midSemscore[], examScore[], 
+totalScore[], 
+grade, gradeA, gradeB, gradeC, gradeD, gradeE, gradeF--counters 
+for the grade frequency
+
+totalSum, minScore, maxScore
