@@ -1,0 +1,12 @@
+Write a program that creates two 9 elements in 2D (3 x 3 Matrix Format) and assign each matrix with 
+1. The first 9 even numbers (2,4,6,8,10,12,14,16,18)
+2. The first 9 odd numbers(1,3,5,7,9,11,13,15,17)
+
+
+
+Now find
+i) the product of the leading diagonal elements of both matrices and display the results
+
+ii) the difference of the product of the trailing and the leading diagonal elements
+
+iii)the difference between the products of the trailing diagonal of the odd matrix and the trailing diagonal of the even matrix
