@@ -53,9 +53,9 @@ public class MatrixCalculations {
 
     // Function to print a 3x3 matrix
     public static void printMatrix(int[][] matrix) {
-        for (int[] row : matrix) {
-            for (int num : row) {
-                System.out.print(num + "\t");
+        for (int i = 0; i < matrix.length; i++) {
+            for (int j = 0; j < matrix[i].length; j++) {
+                System.out.print(matrix[i][j] + "\t");
             }
             System.out.println();
         }
