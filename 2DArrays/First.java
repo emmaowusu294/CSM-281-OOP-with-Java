@@ -18,7 +18,7 @@ public class First {
         // Printing total array
         System.out.println("Column-wise sums:");
         for (int i = 0; i < total.length; i++) {
-            System.out.println("Column " + i + ": " + total[i]);
+            System.out.println("Column " + (i + 1) + ": " + total[i]);
         }
 
         input.close();  // Close the scanner
