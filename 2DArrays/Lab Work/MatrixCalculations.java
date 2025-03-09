@@ -51,7 +51,7 @@ public class MatrixCalculations {
         System.out.println("\n------------------------------------------------------");
     }
 
-    // Function to print a 3x3 matrix
+    // Function to print a 2D matrix
     public static void printMatrix(int[][] matrix) {
         for (int i = 0; i < matrix.length; i++) {
             for (int j = 0; j < matrix[i].length; j++) {
